@@ -4,8 +4,7 @@ import react from '../assets/react.svg'
 function Header() {
   return (
     <>
-        <div>Header</div>
-        <img src={react} alt="" />
+        <img src={react} alt="" style={{height: "200px"}} />
     </>
   )
     
